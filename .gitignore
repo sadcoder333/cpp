@@ -1,5 +1,6 @@
 node_modules
 .dist
 _book
+*.log
 *.sh
 *.json
