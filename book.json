@@ -1,0 +1,37 @@
+{
+    "title" : "android学习笔记",
+    "author" : "sadcoder333",
+    "description" : "日常工作中用到的一些技术总结",
+    "language" : "zh-hans",
+    
+    "links" : {
+        "sidebar" : {
+           "GitHub主页" : "https://github.com/sadcoder333"
+    	}
+    },    
+
+    "plugins": [
+		"-sharing",
+		"github", 
+		"splitter",
+		"copy-code-button",
+		"expandable-chapters-small",
+		"back-to-top-button",
+		"-lunr", 
+		"-search", 
+		"search-pro",
+		"tbfed-pagefooter"
+    ],
+
+    "pluginsConfig": {
+       	"github": {
+            "url": "https://github.com/sadcoder333"
+        },
+		"tbfed-pagefooter": {
+            "copyright":"Copyright All Reserved .",
+            "modify_label": "Last Modified On：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+    }
+
+}

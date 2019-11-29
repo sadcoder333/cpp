@@ -3,4 +3,3 @@ node_modules
 _book
 *.log
 *.sh
-*.json
